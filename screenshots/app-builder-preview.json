@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Classroom Compass",
+      "hasCanvas": false,
+      "bodyTextLen": 428,
+      "bodyTextHash": "681ab2dc93607d1ea0aee3a33869d49d120c0c2ff16ed1c6714dd21115b6a913",
+      "bodyTextPrefix": "TECHNOLOGY FOR TEACHING AND LEARNING 1 Classroom Compass Briefin",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Classroom Compass",
+      "hasCanvas": false,
+      "bodyTextLen": 428,
+      "bodyTextHash": "681ab2dc93607d1ea0aee3a33869d49d120c0c2ff16ed1c6714dd21115b6a913",
+      "bodyTextPrefix": "TECHNOLOGY FOR TEACHING AND LEARNING 1 Classroom Compass Briefin",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
